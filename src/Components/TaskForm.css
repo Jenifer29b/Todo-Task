@@ -1,0 +1,41 @@
+.app_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.task_input{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    border: 2px solid rgb(6, 127, 6);
+    border-radius: 5px;
+    padding: 8px,15px;
+    width: 45%;
+    margin: 5px;
+}
+
+.task_status{
+    font-size: 16px;
+    font-weight: 500;
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    padding: 0px  5px;
+    background-color:cornflowerblue;
+}
+
+.task_submit{
+    font-size: 16px;
+    font-weight: 500;
+    background-color: cadetblue;
+    color: black;
+    border-radius: 5px;
+    height: 30px;
+    padding: 3px 13px;
+    margin-left: 10px;
+
+}
