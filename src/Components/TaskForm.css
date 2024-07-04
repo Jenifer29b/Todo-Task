@@ -20,7 +20,7 @@
 .task_status{
     font-size: 16px;
     font-weight: 500;
-    border: 2px solid red;
+    border: 2px solid rgb(249, 58, 58);
     border-radius: 5px;
     width: 150px;
     height: 30px;
